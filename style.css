@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@400;700&family=Roboto:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+  font-family: "Fuzzy Bubbles", Arial, Helvetica, sans-serif;
+}
+/*footer {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  color: #fff;
+}*/
+.vp {
+  background: url(/img/coco.jpeg) center center;
+  background-size: cover;
+  height: 700px;
+  text-align: center;
+  background-repeat: no-repeat;
+}
+.container h3 {
+  color: white;
+  margin-bottom: 20px;
+  margin: auto;
+  padding: 150px;
+  width: 600px;
+  font-size: 50px;
+  display: block;
+}
+.nav-link1 {
+  color: blue;
+}
+.nav-link2 {
+  color: gray;
+}
+.nav-link3 {
+  color: red;
+}
